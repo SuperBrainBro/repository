@@ -1,3 +1,4 @@
-My Repository for Kodi,
+# Vincent's Repository
 
-Addons and such.
+Kodi File Manager Source:
+https://superbrainbro.github.io/repository/repo/
