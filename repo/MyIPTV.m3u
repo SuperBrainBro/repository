@@ -439,3 +439,11 @@ https://rpn1.bozztv.com/36bay2/gusa-TVSCartoonNetwork/tracks-v1a1/index-16234020
 
 #EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="" tvg-chno="1560" channel-id="1561" tvg-country="US" tvg-language="English" group-title="Custom",Disney Channel
 http://xtr1.com:80/live/Iptvtree200telg/fUfRHGxBm8/60486.m3u8
+http://xtr1.com:80/live/Iptvtree200telg/fUfRHGxBm8/56617.m3u8
+#EXTINF:-1,PT: Nick
+http://xtr1.com:80/live/Iptvtree200telg/fUfRHGxBm8/56618.m3u8
+#EXTINF:-1,PT: DISNEY JUNIOR
+http://xtr1.com:80/live/Iptvtree200telg/fUfRHGxBm8/56619.m3u8
+#EXTINF:-1,PT: DISNEY CHANNEL
+http://xtr1.com:80/live/Iptvtree200telg/fUfRHGxBm8/56620.m3u8
+#EXTINF:-1,PT: CARTOON NETWORK
