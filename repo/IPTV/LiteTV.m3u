@@ -7,6 +7,12 @@
 #EXTINF:-1 tvg-id="CourtTV.us" tvg-name="Court TV" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/SuperBrainBro/repository/blob/master/repo/IPTV/Logos/Court%20TV%20Logo.png?raw=true" group_id="1" group-title="Essentials",Court TV
 http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/410.ts
 
+#EXTGRP:Kids
+#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="Disney Channel" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/SuperBrainBro/repository/blob/master/repo/IPTV/Logos/Disney%20Channel%20Logo.png?raw=true" group_id="2" group-title="Kids",Disney Channel
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/410.ts
+#EXTINF:-1 tvg-id="DisneyChannelHD.us" tvg-name="Disney Channel HD" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/SuperBrainBro/repository/blob/master/repo/IPTV/Logos/Disney%20Channel%20HD%20Logo.png?raw=true" group_id="2" group-title="Kids",Disney Channel HD
+http://neczbm.to:80/play/xLlcu8P5_J45fa32UhK0mYiXtTHcAhTkltp7bN5Zr-3fiwVdY7YV5nA0tkbw_0OK/ts
+
 #EXTGRP:Sports
 #EXTINF:-1 tvg-id="FOXSports.us" tvg-name="FOX Sports" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/SuperBrainBro/repository/blob/master/repo/IPTV/Logos/Fox%20Sports%20Logo.png?raw=true" group-title="Sports",FOX Sports
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
