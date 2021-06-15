@@ -1,0 +1,455 @@
+#EXTM3U url-tvg="https://epg.best/1bb1d-oeiqwc.xml.gz" x-tvg-url="https://epg.best/1bb1d-oeiqwc.xml.gz"
+#EXTINF:-1 tvg-id="" tvg-name="3News Now (KMTV-TV)" tvg-logo="" tvg-chno="21" channel-id="21" tvg-country="US" tvg-language="English" group-title="News",3News Now (KMTV-TV)
+https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
+#EXTINF:-1 tvg-id="SABCNews.za" tvg-name="ABC News" tvg-logo="https://static.epg.best/za/SABCNews.za.png" tvg-chno="36" channel-id="36" tvg-country="US" tvg-language="English" group-title="News",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al Hurra" tvg-logo="" tvg-chno="54" channel-id="54" tvg-country="US" tvg-language="Arabic" group-title="News",Al Hurra
+https://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al Hurra" tvg-logo="" tvg-chno="55" channel-id="55" tvg-country="US" tvg-language="Arabic" group-title="News",Al Hurra
+https://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg(美国)" tvg-logo="" tvg-chno="120" channel-id="120" tvg-country="US" tvg-language="English" group-title="News",Bloomberg(美国)
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Brut" tvg-logo="" tvg-chno="131" channel-id="131" tvg-country="US" tvg-language="English" group-title="News",Brut
+https://a.jsrdn.com/broadcast/baac3e801e/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBC News  (XUMO)" tvg-logo="" tvg-chno="150" channel-id="150" tvg-country="US" tvg-language="English" group-title="News",CBC News  (XUMO)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-cbcnews/CDN/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBS News" tvg-logo="" tvg-chno="158" channel-id="158" tvg-country="US" tvg-language="English" group-title="News",CBS News
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBS News" tvg-logo="" tvg-chno="159" channel-id="159" tvg-country="US" tvg-language="English" group-title="News",CBS News
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8264/vaw-can/mobile_web/cbsnews_mobile
+#EXTINF:-1 tvg-id="CBSWBZ.us" tvg-name="CBS News Boston" tvg-logo="https://static.epg.best/us/CBSWBZ.us.png" tvg-chno="160" channel-id="160" tvg-country="US" tvg-language="English" group-title="News",CBS News Boston
+https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8?iu=/4128/CBS.BOSTON.OTT
+#EXTINF:-1 tvg-id="" tvg-name="CBS News Los Angeles" tvg-logo="" tvg-chno="161" channel-id="161" tvg-country="US" tvg-language="English" group-title="News",CBS News Los Angeles
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
+#EXTINF:-1 tvg-id="CBSWCBS.us" tvg-name="CBSN" tvg-logo="https://static.epg.best/us/CBSWCBS.us.png" tvg-chno="163" channel-id="163" tvg-country="US" tvg-language="English" group-title="News",CBSN
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBSN" tvg-logo="" tvg-chno="164" channel-id="164" tvg-country="US" tvg-language="English" group-title="News",CBSN
+https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBSN" tvg-logo="" tvg-chno="165" channel-id="165" tvg-country="US" tvg-language="English" group-title="News",CBSN
+https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBSN" tvg-logo="" tvg-chno="166" channel-id="166" tvg-country="US" tvg-language="English" group-title="News",CBSN
+https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBSN" tvg-logo="" tvg-chno="167" channel-id="167" tvg-country="US" tvg-language="English" group-title="News",CBSN
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBSN New York" tvg-logo="" tvg-chno="177" channel-id="177" tvg-country="US" tvg-language="English" group-title="News",CBSN New York
+https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBSN New York" tvg-logo="" tvg-chno="178" channel-id="178" tvg-country="US" tvg-language="English" group-title="News",CBSN New York
+https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master_12.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cheddar" tvg-logo="" tvg-chno="189" channel-id="189" tvg-country="US" tvg-language="English" group-title="News",Cheddar
+http://plutotv.vo.llnwd.net/m/hlslive/cheddar.m3u8?chname=cheddar&pub=0
+#EXTINF:-1 tvg-id="" tvg-name="Cheddar" tvg-logo="" tvg-chno="190" channel-id="190" tvg-country="US" tvg-language="English" group-title="News",Cheddar
+https://content.uplynk.com/channel/4ee18bd581dc4d3b90303e0cb9beeb0f.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cheddar" tvg-logo="" tvg-chno="194" channel-id="194" tvg-country="US" tvg-language="English" group-title="News",Cheddar
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca1e02c08ee5378be82db47/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="CheddarBusiness.us" tvg-name="Cheddar Big News" tvg-logo="https://static.epg.best/us/CheddarBusiness.us.png" tvg-chno="197" channel-id="197" tvg-country="US" tvg-language="English" group-title="News",Cheddar Big News
+https://live.chdrstatic.com/cbn/primary/index.m3u8
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="https://static.epg.best/us/CNN.us.png" tvg-chno="219" channel-id="219" tvg-country="US" tvg-language="English" group-title="News",CNN
+https://1176700211.rsc.cdn77.org/RIt39SYpyt0PBk0RRsk40w==,1623410566/1176700211/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN (Pluto TV)" tvg-logo="" tvg-chno="220" channel-id="220" tvg-country="US" tvg-language="News" group-title="News",CNN (Pluto TV)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=209&deviceId=5421f71da6af422839419cb3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-logo="https://static.epg.best/us/CNNInternational.us.png" tvg-chno="222" channel-id="222" tvg-country="US" tvg-language="English" group-title="News",CNN International
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_384_216_500k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN International (美国)" tvg-logo="" tvg-chno="223" channel-id="223" tvg-country="US" tvg-language="English" group-title="News",CNN International (美国)
+https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
+#EXTINF:-1 tvg-id="" tvg-name="CNN International HD" tvg-logo="" tvg-chno="224" channel-id="224" tvg-country="US" tvg-language="English" group-title="News",CNN International HD
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNN Türk" tvg-logo="https://static.epg.best/tr/CNNTurk.tr.png" tvg-chno="227" channel-id="227" tvg-country="US;TR" tvg-language="Turkish" group-title="News",CNN Türk
+http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Entertainment Tonight" tvg-logo="" tvg-chno="285" channel-id="285" tvg-country="US" tvg-language="English" group-title="News",Entertainment Tonight
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eye 95 America" tvg-logo="" tvg-chno="302" channel-id="302" tvg-country="US" tvg-language="Urdu" group-title="News",Eye 95 America
+https://cdn20.liveonlineservices.com/hls/eye95tv.m3u8
+#EXTINF:-1 tvg-id="FoxNews.us" tvg-name="Fox News" tvg-logo="https://static.epg.best/us/FoxNews.us.png" tvg-chno="340" channel-id="340" tvg-country="US" tvg-language="English" group-title="News",Fox News
+https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxNews.nz" tvg-name="FOX News Now" tvg-logo="https://static.epg.best/nz/FoxNews.nz.png" tvg-chno="341" channel-id="341" tvg-country="US" tvg-language="English" group-title="News",FOX News Now
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxNews.nz" tvg-name="Fox News Now" tvg-logo="https://static.epg.best/nz/FoxNews.nz.png" tvg-chno="342" channel-id="342" tvg-country="US" tvg-language="English" group-title="News",Fox News Now
+https://lnc-fox-news-now.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox News Radio" tvg-logo="" tvg-chno="343" channel-id="343" tvg-country="US" tvg-language="English" group-title="News",Fox News Radio
+https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+#EXTINF:-1 tvg-id="FreeSpeech.us" tvg-name="Free Speech TV" tvg-logo="https://static.epg.best/us/FreeSpeech.us.png" tvg-chno="351" channel-id="351" tvg-country="US" tvg-language="English" group-title="News",Free Speech TV
+https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Futurism" tvg-logo="" tvg-chno="358" channel-id="358" tvg-country="US" tvg-language="English" group-title="News",Futurism
+https://dai.google.com/linear/hls/event/YakHdnr_RpyszducVuHOpQ/master.m3u8
+#EXTINF:-1 tvg-id="HumTV.pk" tvg-name="HUMRAAZ TV" tvg-logo="https://static.epg.best/pk/HumTV.pk.png" tvg-chno="404" channel-id="404" tvg-country="US;PK" tvg-language="Urdu" group-title="News",HUMRAAZ TV
+https://cdn61.liveonlineservices.com/hls/humraaz.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IDG" tvg-logo="" tvg-chno="411" channel-id="411" tvg-country="US" tvg-language="English" group-title="News",IDG
+https://a.jsrdn.com/broadcast/529a360c04/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IGN" tvg-logo="" tvg-chno="412" channel-id="412" tvg-country="US" tvg-language="English" group-title="News",IGN
+https://ign-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Infowars" tvg-logo="" tvg-chno="418" channel-id="418" tvg-country="US" tvg-language="English" group-title="News",Infowars
+http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="InfoWars" tvg-logo="" tvg-chno="419" channel-id="419" tvg-country="US" tvg-language="English" group-title="News",InfoWars
+https://freespeech.akamaized.net/hls/live/2016712/live2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KCPQ Fox Q13 Seattle" tvg-logo="" tvg-chno="450" channel-id="450" tvg-country="US" tvg-language="English" group-title="News",KCPQ Fox Q13 Seattle
+https://lnc-kcpq-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KDFW Fox 4 Dallas-FT-Worth" tvg-logo="" tvg-chno="451" channel-id="451" tvg-country="US" tvg-language="English" group-title="News",KDFW Fox 4 Dallas-FT-Worth
+https://lnc-kdfw-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KMSP Fox 9 Minneapolis ST Paul" tvg-logo="" tvg-chno="460" channel-id="460" tvg-country="US" tvg-language="English" group-title="News",KMSP Fox 9 Minneapolis ST Paul
+https://lnc-kmsp-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KRIV Fox 26 Houston" tvg-logo="" tvg-chno="477" channel-id="477" tvg-country="US" tvg-language="English" group-title="News",KRIV Fox 26 Houston
+https://lnc-kriv-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KTBC Fox 7 Austin" tvg-logo="" tvg-chno="478" channel-id="478" tvg-country="US" tvg-language="English" group-title="News",KTBC Fox 7 Austin
+https://lnc-ktbc-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KTTV Fox 11 Los Angeles" tvg-logo="" tvg-chno="481" channel-id="481" tvg-country="US" tvg-language="English" group-title="News",KTTV Fox 11 Los Angeles
+https://lnc-kttv-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KTVU Fox 2 San Francisco" tvg-logo="" tvg-chno="484" channel-id="484" tvg-country="US" tvg-language="English" group-title="News",KTVU Fox 2 San Francisco
+https://lnc-ktvu-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KZAS Fox 10 Phoenix" tvg-logo="" tvg-chno="490" channel-id="490" tvg-country="US" tvg-language="English" group-title="News",KZAS Fox 10 Phoenix
+https://lnc-ksaz-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBC News Now" tvg-logo="" tvg-chno="620" channel-id="620" tvg-country="US" tvg-language="English" group-title="News",NBC News Now
+https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
+#EXTINF:-1 tvg-id="Newsmax.us" tvg-name="Newsmax" tvg-logo="https://static.epg.best/us/Newsmax.us.png" tvg-chno="637" channel-id="637" tvg-country="US" tvg-language="English" group-title="News",Newsmax
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-id="Newsy.us" tvg-name="Newsy" tvg-logo="https://static.epg.best/us/Newsy.us.png" tvg-chno="640" channel-id="640" tvg-country="US" tvg-language="English" group-title="News",Newsy
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
+#EXTINF:-1 tvg-id="Newsy.us" tvg-name="Newsy" tvg-logo="https://static.epg.best/us/Newsy.us.png" tvg-chno="641" channel-id="641" tvg-country="US" tvg-language="English" group-title="News",Newsy
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
+#EXTINF:-1 tvg-id="Newsy.us" tvg-name="Newsy" tvg-logo="https://static.epg.best/us/Newsy.us.png" tvg-chno="642" channel-id="642" tvg-country="US" tvg-language="English" group-title="News",Newsy
+https://dai.google.com/linear/hls/event/0PopB0AoSiClAGrHVHBTlw/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OAN Encore" tvg-logo="" tvg-chno="661" channel-id="661" tvg-country="US" tvg-language="English" group-title="News",OAN Encore
+https://oneamericanews-roku-us.amagi.tv/hls/amagi_hls_data_oneameric-oneamericanews/CDN/512x288_875600/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OANN One America News Network" tvg-logo="" tvg-chno="663" channel-id="663" tvg-country="US" tvg-language="English" group-title="News",OANN One America News Network
+http://n1.klowdtv.net/live1/oan_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="OneAmericaNews.us" tvg-name="One America News" tvg-logo="https://static.epg.best/us/OneAmericaNews.us.png" tvg-chno="676" channel-id="676" tvg-country="US" tvg-language="English" group-title="News",One America News
+https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Black News Channel" tvg-logo="" tvg-chno="780" channel-id="780" tvg-country="US" tvg-language="English" group-title="News",Black News Channel
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1efad04320070007dbb60b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="" tvg-name="RT America" tvg-logo="" tvg-chno="1369" channel-id="1369" tvg-country="US" tvg-language="English" group-title="News",RT America
+http://ott-cdn.ucom.am/s96/index.m3u8
+#EXTINF:-1 tvg-id="RtpMemoria.pt" tvg-name="RT America" tvg-logo="https://static.epg.best/pt/RtpMemoria.pt.png" tvg-chno="1370" channel-id="1370" tvg-country="US" tvg-language="English" group-title="News",RT America
+http://rt-usa.secure.footprint.net:80/1105.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STIRR COVID-19 NEWS" tvg-logo="" tvg-chno="1453" channel-id="1453" tvg-country="US" tvg-language="English" group-title="News",STIRR COVID-19 NEWS
+https://dai.google.com/linear/hls/event/08ADpEIeQ8iZOjusLsZbCg/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SubRang TV" tvg-logo="" tvg-chno="1462" channel-id="1462" tvg-country="US" tvg-language="Hindi" group-title="News",SubRang TV
+https://cdn61.liveonlineservices.com/hls/subrang.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TAG TV" tvg-logo="" tvg-chno="1464" channel-id="1464" tvg-country="US" tvg-language="Hindi" group-title="News",TAG TV
+https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The First (STIRR)" tvg-logo="" tvg-chno="1508" channel-id="1508" tvg-country="US" tvg-language="English" group-title="News",The First (STIRR)
+https://dai.google.com/linear/hls/event/nX39-giHRPuKQiVAhua0Kg/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Wall Street Journal Live" tvg-logo="" tvg-chno="1523" channel-id="1523" tvg-country="US" tvg-language="English" group-title="News",The Wall Street Journal Live
+https://d155hi8td9k2ns.cloudfront.net/out/wapo-medialive3-rtmp/live.m3u8?player=powa
+#EXTINF:-1 tvg-id="WeatherChannel.us" tvg-name="The Weather Channel" tvg-logo="https://static.epg.best/us/WeatherChannel.us.png" tvg-chno="1524" channel-id="1524" tvg-country="US" tvg-language="English" group-title="News",The Weather Channel
+https://weather-lh.akamaihd.net/i/twc_1@92006/index_1200_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" tvg-name="VoA TV" tvg-logo="" tvg-chno="1597" channel-id="1597" tvg-country="US" tvg-language="English" group-title="News",VoA TV
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WAGA Fox 5 Atlanta" tvg-logo="" tvg-chno="1599" channel-id="1599" tvg-country="US" tvg-language="English" group-title="News",WAGA Fox 5 Atlanta
+https://lnc-waga-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WFLD FOX 32 Chicago" tvg-logo="" tvg-chno="1612" channel-id="1612" tvg-country="US" tvg-language="English" group-title="News",WFLD FOX 32 Chicago
+https://lnc-wfld-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WITI Fox 6 Milwaukee" tvg-logo="" tvg-chno="1627" channel-id="1627" tvg-country="US" tvg-language="English" group-title="News",WITI Fox 6 Milwaukee
+https://lnc-witi-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WJBK Fox 2 Detroit" tvg-logo="" tvg-chno="1629" channel-id="1629" tvg-country="US" tvg-language="English" group-title="News",WJBK Fox 2 Detroit
+https://lnc-wjbk-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WNYW Fox 5 New York" tvg-logo="" tvg-chno="1631" channel-id="1631" tvg-country="US" tvg-language="English" group-title="News",WNYW Fox 5 New York
+https://lnc-wnyw-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WSJ" tvg-logo="" tvg-chno="1636" channel-id="1636" tvg-country="US" tvg-language="English" group-title="News",WSJ
+https://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WSVN Fox 7 Miami" tvg-logo="" tvg-chno="1638" channel-id="1638" tvg-country="US" tvg-language="English" group-title="News",WSVN Fox 7 Miami
+https://bcsecurelivehls-i.akamaihd.net/hls/live/598043/4368278029001_1/onair/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WTTG Fox 5 Washington DC" tvg-logo="" tvg-chno="1640" channel-id="1640" tvg-country="US" tvg-language="English" group-title="News",WTTG Fox 5 Washington DC
+https://lnc-wttg-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WTVT Fox 13 Tampa Bay" tvg-logo="" tvg-chno="1641" channel-id="1641" tvg-country="US" tvg-language="English" group-title="News",WTVT Fox 13 Tampa Bay
+https://lnc-wtvt-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WTXF Fox 29 Philadelphia" tvg-logo="" tvg-chno="1642" channel-id="1642" tvg-country="US" tvg-language="English" group-title="News",WTXF Fox 29 Philadelphia
+https://lnc-wtxf-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A&E Crime 360" tvg-logo="" tvg-chno="28" channel-id="28" tvg-country="US" tvg-language="English" group-title="Documentary",A&E Crime 360
+https://aenetworks-crime360-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="EcoTV.pa" tvg-name="ConTV" tvg-logo="https://static.epg.best/pa/EcoTV.pa.png" tvg-chno="233" channel-id="233" tvg-country="US" tvg-language="English" group-title="Documentary",ConTV
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/1280x720_2108000/chunklist.m3u8
+#EXTINF:-1 tvg-id="EcoTV.pa" tvg-name="CONtv" tvg-logo="https://static.epg.best/pa/EcoTV.pa.png" tvg-chno="234" channel-id="234" tvg-country="US" tvg-language="English" group-title="Documentary",CONtv
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8
+#EXTINF:-1 tvg-id="EcoTV.pa" tvg-name="CONtv" tvg-logo="https://static.epg.best/pa/EcoTV.pa.png" tvg-chno="236" channel-id="236" tvg-country="US" tvg-language="English" group-title="Documentary",CONtv
+https://dai.google.com/linear/hls/event/o8Smo_gsSAm26uW9Xkww_g/master.m3u8
+#EXTINF:-1 tvg-id="Crime360.us" tvg-name="Crime 360" tvg-logo="https://static.epg.best/us/Crime360.us.png" tvg-chno="244" channel-id="244" tvg-country="US" tvg-language="English" group-title="Documentary",Crime 360
+https://aenetworks-crime360-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Docurama" tvg-logo="" tvg-chno="263" channel-id="263" tvg-country="NORAM" tvg-language="English" group-title="Documentary",Docurama
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Docurama (STIRR)" tvg-logo="" tvg-chno="264" channel-id="264" tvg-country="US" tvg-language="English" group-title="Documentary",Docurama (STIRR)
+https://dai.google.com/linear/hls/event/Hx_PEMEsSzOCcZgy0Tq2YQ/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Everyday Heroes" tvg-logo="" tvg-chno="299" channel-id="299" tvg-country="US" tvg-language="English" group-title="Documentary",Everyday Heroes
+https://a.jsrdn.com/broadcast/7b1451fa52/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Forensics Files (STIRR)" tvg-logo="" tvg-chno="339" channel-id="339" tvg-country="US" tvg-language="English" group-title="Documentary",Forensics Files (STIRR)
+https://dai.google.com/linear/hls/event/fJj7BuL_Tv2KjCnNAmLK8g/master.m3u8
+#EXTINF:-1 tvg-id="LawAndCrime.us" tvg-name="Law & Crime" tvg-logo="https://static.epg.best/us/LawAndCrime.us.png" tvg-chno="500" channel-id="500" tvg-country="US" tvg-language="English" group-title="Documentary",Law & Crime
+https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Law & Crime Network" tvg-logo="" tvg-chno="502" channel-id="502" tvg-country="US" tvg-language="English" group-title="Documentary",Law & Crime Network
+http://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Law And Crime Network" tvg-logo="" tvg-chno="503" channel-id="503" tvg-country="US" tvg-language="English" group-title="Documentary",Law And Crime Network
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
+#EXTINF:-1 tvg-id="MallTV.pa" tvg-name="Magellan TV" tvg-logo="https://static.epg.best/pa/MallTV.pa.png" tvg-chno="534" channel-id="534" tvg-country="US" tvg-language="English" group-title="Documentary",Magellan TV
+https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Monarch" tvg-logo="" tvg-chno="574" channel-id="574" tvg-country="US" tvg-language="English" group-title="Documentary",Monarch
+https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="PlutoBoxing.us" tvg-name="Pluto TV Biography" tvg-logo="https://static.epg.best/us/PlutoBoxing.us.png" tvg-chno="776" channel-id="776" tvg-country="US" tvg-language="English" group-title="Documentary",Pluto TV Biography
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af2a24f1c5ab2d298776b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="" tvg-name="Forensic Files" tvg-logo="" tvg-chno="940" channel-id="940" tvg-country="US" tvg-language="English" group-title="Documentary",Forensic Files
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bb1af6a268cae539bcedb0a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="PlutoThrillers.us" tvg-name="Forensic Files en ESP" tvg-logo="https://static.epg.best/us/PlutoThrillers.us.png" tvg-chno="941" channel-id="941" tvg-country="US" tvg-language="English" group-title="Documentary",Forensic Files en ESP
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e94cd036cc69d0007e8a1ba/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="" tvg-name="STIRR Biographies" tvg-logo="" tvg-chno="1448" channel-id="1448" tvg-country="US" tvg-language="English" group-title="Documentary",STIRR Biographies
+https://dai.google.com/linear/hls/event/OzhtmoTQQjSNOimI6ikGCQ/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Monarch Channel" tvg-logo="" tvg-chno="1512" channel-id="1512" tvg-country="US;UK" tvg-language="English" group-title="Documentary",The Monarch Channel
+https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Unidentified" tvg-logo="" tvg-chno="1578" channel-id="1578" tvg-country="US" tvg-language="English" group-title="Documentary",Unidentified
+https://a.jsrdn.com/broadcast/4hhfi556/indexR720P.m3u8
+#EXTINF:-1 tvg-id="ACCNetwork.us" tvg-name="ACC Network" tvg-logo="https://static.epg.best/us/ACCNetwork.us.png" tvg-chno="37" channel-id="37" tvg-country="US" tvg-language="English" group-title="Sports",ACC Network
+https://120sports-accdn-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Adventure.pl" tvg-name="Adventure Sports Network" tvg-logo="https://static.epg.best/pl/Adventure.pl.png" tvg-chno="39" channel-id="39" tvg-country="US" tvg-language="English" group-title="Sports",Adventure Sports Network
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adventure Sports Network" tvg-logo="" tvg-chno="40" channel-id="40" tvg-country="US" tvg-language="English" group-title="Sports",Adventure Sports Network
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adventure Sports TV" tvg-logo="" tvg-chno="41" channel-id="41" tvg-country="US" tvg-language="English" group-title="Sports",Adventure Sports TV
+https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275
+#EXTINF:-1 tvg-id="KNDBDT2.us" tvg-name="Bek Sports East" tvg-logo="https://static.epg.best/us/KNDBDT2.us.png" tvg-chno="98" channel-id="98" tvg-country="US" tvg-language="English" group-title="Sports",Bek Sports East
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+#EXTINF:-1 tvg-id="KRDKDT2.us" tvg-name="Bek Sports West" tvg-logo="https://static.epg.best/us/KRDKDT2.us.png" tvg-chno="99" channel-id="99" tvg-country="US" tvg-language="English" group-title="Sports",Bek Sports West
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Captital OTB Betting" tvg-logo="" tvg-chno="147" channel-id="147" tvg-country="US" tvg-language="" group-title="Sports",Captital OTB Betting
+https://d2up1hmow19bcd.cloudfront.net/livecf/liveracing/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Choppertown (STIRR)" tvg-logo="" tvg-chno="201" channel-id="201" tvg-country="US" tvg-language="English" group-title="Sports",Choppertown (STIRR)
+https://dai.google.com/linear/hls/event/N3c94WZQQq2fruixzfcCUQ/master.m3u8
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combat Go" tvg-logo="https://static.epg.best/br/Combate.br.png" tvg-chno="229" channel-id="229" tvg-country="US" tvg-language="English" group-title="Sports",Combat Go
+https://stream-us-east-1.getpublica.com/cl/59f740a5-3c7b-47bf-a845-27df203f8b2e/1280x720_2300000_4_false.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cycle World" tvg-logo="" tvg-chno="253" channel-id="253" tvg-country="US" tvg-language="English" group-title="Sports",Cycle World
+https://a.jsrdn.com/broadcast/3e5befe5dd/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Edge Sport" tvg-logo="" tvg-chno="277" channel-id="277" tvg-country="US" tvg-language="English" group-title="Sports",Edge Sport
+https://edgesport-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Edge Sport (US)" tvg-logo="" tvg-chno="278" channel-id="278" tvg-country="US" tvg-language="English" group-title="Sports",Edge Sport (US)
+https://img-edgesport.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Edge Sports" tvg-logo="" tvg-chno="279" channel-id="279" tvg-country="US" tvg-language="English" group-title="Sports",Edge Sports
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Edge Sports" tvg-logo="" tvg-chno="280" channel-id="280" tvg-country="US" tvg-language="English" group-title="Sports",Edge Sports
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="EdgeSport.gr" tvg-name="EDGESport (STIRR)" tvg-logo="https://static.epg.best/gr/EdgeSport.gr.png" tvg-chno="281" channel-id="281" tvg-country="US" tvg-language="English" group-title="Sports",EDGESport (STIRR)
+https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://static.epg.best/us/ESPN.us.png" tvg-chno="291" channel-id="291" tvg-country="US" tvg-language="English" group-title="Sports",ESPN
+https://gma2.blab.email/fs2.m3u8
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-logo="https://static.epg.best/us/ESPN2.us.png" tvg-chno="292" channel-id="292" tvg-country="US" tvg-language="English" group-title="Sports",ESPN 2
+https://gma2.blab.email/espn2.m3u8
+#EXTINF:-1 tvg-id="ESPNNews.us" tvg-name="ESPN News" tvg-logo="https://static.epg.best/us/ESPNNews.us.png" tvg-chno="293" channel-id="293" tvg-country="US" tvg-language="English" group-title="Sports",ESPN News
+https://gma2.blab.email/espnews.m3u8
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPN U" tvg-logo="https://static.epg.best/us/ESPNU.us.png" tvg-chno="294" channel-id="294" tvg-country="US" tvg-language="English" group-title="Sports",ESPN U
+https://gma2.blab.email/espnu.m3u8
+#EXTINF:-1 tvg-id="FightBox.pl" tvg-name="Fight Box" tvg-logo="https://static.epg.best/pl/FightBox.pl.png" tvg-chno="311" channel-id="311" tvg-country="US" tvg-language="English" group-title="Sports",Fight Box
+http://ott-cdn.ucom.am/s86/index.m3u8
+#EXTINF:-1 tvg-id="FightSportsTV.us" tvg-name="Fight Sports" tvg-logo="https://static.epg.best/us/FightSportsTV.us.png" tvg-chno="312" channel-id="312" tvg-country="US" tvg-language="English" group-title="Sports",Fight Sports
+http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/index.m3u8
+#EXTINF:-1 tvg-id="Fithd.hu" tvg-name="Fite" tvg-logo="https://static.epg.best/hu/Fithd.hu.png" tvg-chno="332" channel-id="332" tvg-country="US" tvg-language="English" group-title="Sports",Fite
+https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_360/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 Asia" tvg-logo="" tvg-chno="347" channel-id="347" tvg-country="US" tvg-language="English" group-title="Sports",Fox Sports 2 Asia
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3 Asia" tvg-logo="" tvg-chno="348" channel-id="348" tvg-country="US" tvg-language="English" group-title="Sports",Fox Sports 3 Asia
+https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Asia" tvg-logo="" tvg-chno="349" channel-id="349" tvg-country="US" tvg-language="English" group-title="Sports",Fox Sports Asia
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="FOXSports1.ph" tvg-name="FOX Sports HD 1" tvg-logo="https://static.epg.best/ph/FOXSports1.ph.png" tvg-chno="350" channel-id="350" tvg-country="US" tvg-language="English" group-title="Sports",FOX Sports HD 1
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1 tvg-id="FuelTV.pt" tvg-name="Fuel TV" tvg-logo="https://static.epg.best/pt/FuelTV.pt.png" tvg-chno="354" channel-id="354" tvg-country="US;AU" tvg-language="English" group-title="Sports",Fuel TV
+https://fueltv-fueltv-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="FuelTV.pt" tvg-name="Fuel TV" tvg-logo="https://static.epg.best/pt/FuelTV.pt.png" tvg-chno="355" channel-id="355" tvg-country="US;AU" tvg-language="English" group-title="Sports",Fuel TV
+https://fueltv-fueltv-8-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Horizon Sports" tvg-logo="" tvg-chno="397" channel-id="397" tvg-country="US" tvg-language="English" group-title="Sports",Horizon Sports
+https://a.jsrdn.com/broadcast/20dc4269f3/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="KBSNSports.kr" tvg-name="KBP SPORTS" tvg-logo="https://static.epg.best/kr/KBSNSports.kr.png" tvg-chno="446" channel-id="446" tvg-country="US" tvg-language="English" group-title="Sports",KBP SPORTS
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MAVTV.us" tvg-name="MavTV" tvg-logo="https://static.epg.best/us/MAVTV.us.png" tvg-chno="549" channel-id="549" tvg-country="US;AU" tvg-language="English" group-title="Sports",MavTV
+https://mavtv-mavtvglobal-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MavTv (STIRR)" tvg-logo="" tvg-chno="550" channel-id="550" tvg-country="US" tvg-language="English" group-title="Sports",MavTv (STIRR)
+https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8
+#EXTINF:-1 tvg-id="MAVTV.us" tvg-name="MavTV (STIRR)" tvg-logo="https://static.epg.best/us/MAVTV.us.png" tvg-chno="551" channel-id="551" tvg-country="US" tvg-language="English" group-title="Sports",MavTV (STIRR)
+https://mavtv-1.sinclair.wurl.com/manifest/2000.m3u8
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png" tvg-chno="568" channel-id="568" tvg-country="US" tvg-language="English" group-title="Sports",MLB Network
+https://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MMA Junkie" tvg-logo="" tvg-chno="569" channel-id="569" tvg-country="US" tvg-language="English" group-title="Sports",MMA Junkie
+https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MMN" tvg-logo="" tvg-chno="570" channel-id="570" tvg-country="US" tvg-language="English" group-title="Sports",MMN
+https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/low/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PAC12 Insider" tvg-logo="" tvg-chno="693" channel-id="693" tvg-country="US" tvg-language="English" group-title="Sports",PAC12 Insider
+https://pac12-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoAction.us" tvg-name="Action Sports" tvg-logo="https://static.epg.best/us/PlutoAction.us.png" tvg-chno="718" channel-id="718" tvg-country="US" tvg-language="English" group-title="Sports",Action Sports
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="PlutoAction.us" tvg-name="Pluto TV Action Sports" tvg-logo="https://static.epg.best/us/PlutoAction.us.png" tvg-chno="719" channel-id="719" tvg-country="US" tvg-language="English" group-title="Sports",Pluto TV Action Sports
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8588734f8000823b7de/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+#EXTINF:-1 tvg-id="" tvg-name="All Elite Wrestling" tvg-logo="" tvg-chno="723" channel-id="723" tvg-country="US" tvg-language="Spanish" group-title="Sports",All Elite Wrestling
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="BellatorMMA.us" tvg-name="Bellator MMA" tvg-logo="https://static.epg.best/us/BellatorMMA.us.png" tvg-chno="765" channel-id="765" tvg-country="US" tvg-language="English" group-title="Sports",Bellator MMA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="" tvg-name="Big Sky Conference" tvg-logo="" tvg-chno="774" channel-id="774" tvg-country="US" tvg-language="English" group-title="Sports",Big Sky Conference
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/59641d9173ac1fec2fc01f17/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="PlutoBoxing.us" tvg-name="Pluto TV Boxing" tvg-logo="https://static.epg.best/us/PlutoBoxing.us.png" tvg-chno="786" channel-id="786" tvg-country="US" tvg-language="English" group-title="Sports",Pluto TV Boxing
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac425f949b4600079938f3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="PlutoBoxing.us" tvg-name="FOX Sports" tvg-logo="https://static.epg.best/us/PlutoBoxing.us.png" tvg-chno="942" channel-id="942" tvg-country="US" tvg-language="English" group-title="Sports",FOX Sports
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="TigoSportsPlus.gt" tvg-name="Fox Sports pluto" tvg-logo="https://static.epg.best/gt/TigoSportsPlus.gt.png" tvg-chno="943" channel-id="943" tvg-country="US" tvg-language="English" group-title="Sports",Fox Sports pluto
+https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=3fab7580-8b86-11e8-a44b-996a399dacd8&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 tvg-id="PlutoDrama.us" tvg-name="Fútbol Para Fans" tvg-logo="https://static.epg.best/us/PlutoDrama.us.png" tvg-chno="947" channel-id="947" tvg-country="US" tvg-language="Spanish" group-title="Sports",Fútbol Para Fans
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddd1a3ef73b00091d5779/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="PlutoBoxing.us" tvg-name="GLORY Kickboxing" tvg-logo="https://static.epg.best/us/PlutoBoxing.us.png" tvg-chno="956" channel-id="956" tvg-country="US" tvg-language="English" group-title="Sports",GLORY Kickboxing
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="PlutoBoxing.us" tvg-name="Glory Kickboxing" tvg-logo="https://static.epg.best/us/PlutoBoxing.us.png" tvg-chno="957" channel-id="957" tvg-country="US" tvg-language="English" group-title="Sports",Glory Kickboxing
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d6f5e738977e2c310949/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="PlutoBoxing.us" tvg-name="Glory Kickboxing" tvg-logo="https://static.epg.best/us/PlutoBoxing.us.png" tvg-chno="958" channel-id="958" tvg-country="US" tvg-language="English" group-title="Sports",Glory Kickboxing
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9be1be738977e2c312134/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="" tvg-name="IMPACT Wrestling" tvg-logo="" tvg-chno="990" channel-id="990" tvg-country="US" tvg-language="English" group-title="Sports",IMPACT Wrestling
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="PlutoDrama.us" tvg-name="MLS" tvg-logo="https://static.epg.best/us/PlutoDrama.us.png" tvg-chno="1062" channel-id="1062" tvg-country="US" tvg-language="English" group-title="Sports",MLS
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
+#EXTINF:-1 tvg-id="TravelChannel.pl" tvg-name="NFL Channel" tvg-logo="https://static.epg.best/pl/TravelChannel.pl.png" tvg-chno="1119" channel-id="1119" tvg-country="US" tvg-language="English" group-title="Sports",NFL Channel
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network" tvg-logo="https://static.epg.best/us/NFLNetwork.us.png" tvg-chno="1120" channel-id="1120" tvg-country="US" tvg-language="English" group-title="Sports",NFL Network
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=708&deviceId=5ced7d5df64be98e07ed47b6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="PlutoAction.us" tvg-name="PGA TOUR" tvg-logo="https://static.epg.best/us/PlutoAction.us.png" tvg-chno="1152" channel-id="1152" tvg-country="US" tvg-language="English" group-title="Sports",PGA TOUR
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de94dacb394a300099fa22a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="PlutoDrama.us" tvg-name="Pluto TV Sports" tvg-logo="https://static.epg.best/us/PlutoDrama.us.png" tvg-chno="1206" channel-id="1206" tvg-country="US" tvg-language="English" group-title="Sports",Pluto TV Sports
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56340779a738201b4ccfeac9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="PlutoDrama.us" tvg-name="Pluto TV Sports" tvg-logo="https://static.epg.best/us/PlutoDrama.us.png" tvg-chno="1207" channel-id="1207" tvg-country="US" tvg-language="English" group-title="Sports",Pluto TV Sports
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9bb941b95267e225e59c2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="PlutoDrama.us" tvg-name="Pluto TV Sports" tvg-logo="https://static.epg.best/us/PlutoDrama.us.png" tvg-chno="1208" channel-id="1208" tvg-country="US" tvg-language="English" group-title="Sports",Pluto TV Sports
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d7677fa2ec536ce1d587eeb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="" tvg-name="Sports TV Plus" tvg-logo="" tvg-chno="1410" channel-id="1410" tvg-country="US" tvg-language="English" group-title="Sports",Sports TV Plus
+https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
+#EXTINF:-1 tvg-id="Stadium.us" tvg-name="Stadium" tvg-logo="https://static.epg.best/us/Stadium.us.png" tvg-chno="1431" channel-id="1431" tvg-country="US" tvg-language="English" group-title="Sports",Stadium
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 tvg-id="Stadium.us" tvg-name="Stadium (STIRR)" tvg-logo="https://static.epg.best/us/Stadium.us.png" tvg-chno="1433" channel-id="1433" tvg-country="US" tvg-language="English" group-title="Sports",Stadium (STIRR)
+http://stadium.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Stadium.us" tvg-name="Stadium (STIRR)" tvg-logo="https://static.epg.best/us/Stadium.us.png" tvg-chno="1434" channel-id="1434" tvg-country="US" tvg-language="English" group-title="Sports",Stadium (STIRR)
+https://dai.google.com/linear/hls/event/0jRU1DBXSW6a_TFheLfAUQ/master.m3u8
+#EXTINF:-1 tvg-id="Stadium.us" tvg-name="Stadium HD" tvg-logo="https://static.epg.best/us/Stadium.us.png" tvg-chno="1435" channel-id="1435" tvg-country="US" tvg-language="English" group-title="Sports",Stadium HD
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_3000k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stadium Network" tvg-logo="" tvg-chno="1436" channel-id="1436" tvg-country="US" tvg-language="" group-title="Sports",Stadium Network
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_2000k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STIRR Sports" tvg-logo="" tvg-chno="1458" channel-id="1458" tvg-country="US" tvg-language="English" group-title="Sports",STIRR Sports
+https://dai.google.com/linear/hls/event/1B2yihdIR1mCL63rXzERag/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Tennis Channel" tvg-logo="" tvg-chno="1521" channel-id="1521" tvg-country="US" tvg-language="English" group-title="Sports",The Tennis Channel
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:-1 tvg-id="TVBXinghe.hk" tvg-name="TVS Boxing" tvg-logo="https://static.epg.best/hk/TVBXinghe.hk.png" tvg-chno="1541" channel-id="1541" tvg-country="US" tvg-language="English" group-title="Sports",TVS Boxing
+https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/tracks-v1a1/index-1623359234-now.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVS Classic Sports" tvg-logo="" tvg-chno="1544" channel-id="1544" tvg-country="US" tvg-language="English" group-title="Sports",TVS Classic Sports
+http://rpn1.bozztv.com/36bay2/gusa-tvs/tracks-v1a1/index-1623399962-now.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVS Sports" tvg-logo="" tvg-chno="1565" channel-id="1565" tvg-country="US" tvg-language="English" group-title="Sports",TVS Sports
+https://rpn1.bozztv.com/36bay2/gusa-tvssports/tracks-v1a1/index-1623403228-now.m3u8
+#EXTINF:-1 tvg-id="TV3Sport.se" tvg-name="TVS Sports Bureau" tvg-logo="https://static.epg.best/se/TV3Sport.se.png" tvg-chno="1566" channel-id="1566" tvg-country="US" tvg-language="English" group-title="Sports",TVS Sports Bureau
+https://rpn1.bozztv.com/36bay2/gusa-tvssportsbureau/tracks-v1a1/index-1623403141-now.m3u8
+#EXTINF:-1 tvg-id="TVNTurbo.pl" tvg-name="TVS Turbo" tvg-logo="https://static.epg.best/pl/TVNTurbo.pl.png" tvg-chno="1572" channel-id="1572" tvg-country="US" tvg-language="English" group-title="Sports",TVS Turbo
+https://rpn1.bozztv.com/36bay2/gusa-tvsturbo/tracks-v1a1/index-1623404770-now.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVS Women Sports" tvg-logo="" tvg-chno="1574" channel-id="1574" tvg-country="US" tvg-language="English" group-title="Sports",TVS Women Sports
+https://rpn1.bozztv.com/36bay2/gusa-tvswsn/tracks-v1a1/index-1623404972-now.m3u8
+#EXTINF:-1 tvg-id="ZiggoSportTennis.nl" tvg-name="US SPORT Tennis Plus 1" tvg-logo="https://static.epg.best/nl/ZiggoSportTennis.nl.png" tvg-chno="1585" channel-id="1585" tvg-country="US" tvg-language="English" group-title="Sports",US SPORT Tennis Plus 1
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="World Poker Tour" tvg-logo="" tvg-chno="1633" channel-id="1633" tvg-country="US" tvg-language="English" group-title="Sports",World Poker Tour
+https://dai.google.com/linear/hls/event/V7AWGB66R3avQhuIFaxmjw/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Battery Pop (XUMO)" tvg-logo="" tvg-chno="85" channel-id="85" tvg-country="US" tvg-language="English" group-title="Kids",Battery Pop (XUMO)
+http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-logo="https://static.epg.best/us/Boomerang.us.png" tvg-chno="125" channel-id="125" tvg-country="US" tvg-language="English" group-title="Kids",Boomerang
+http://27.254.130.56:80/live01/ch18.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Brat TV" tvg-logo="" tvg-chno="130" channel-id="130" tvg-country="US" tvg-language="English" group-title="Kids",Brat TV
+https://brat-samsung-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FGTV (Bumblebee)" tvg-logo="" tvg-chno="308" channel-id="308" tvg-country="US" tvg-language="English" group-title="Kids",FGTV (Bumblebee)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2624990145130f25474620/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KPBS-DT4" tvg-logo="" tvg-chno="470" channel-id="470" tvg-country="US" tvg-language="English" group-title="Kids",KPBS-DT4
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/kpbs-dt4.m3u8
+#EXTINF:-1 tvg-id="TelenovelaChannel.ph" tvg-name="Lego Channel" tvg-logo="https://static.epg.best/ph/TelenovelaChannel.ph.png" tvg-chno="504" channel-id="504" tvg-country="US" tvg-language="English" group-title="Kids",Lego Channel
+https://legochannel-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lego Toons (Bumblebee)" tvg-logo="" tvg-chno="505" channel-id="505" tvg-country="US" tvg-language="English" group-title="Kids",Lego Toons (Bumblebee)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lets Play Minecraft (Bumblebee)" tvg-logo="" tvg-chno="509" channel-id="509" tvg-country="US" tvg-language="English" group-title="Kids",Lets Play Minecraft (Bumblebee)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625700145130f25474624/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Level One (Bumblebee)" tvg-logo="" tvg-chno="510" channel-id="510" tvg-country="US" tvg-language="English" group-title="Kids",Level One (Bumblebee)
+https://stitcheraws.unreel.me/wse-node04.powr.com/live/5af61be7d5eeee7af3d1db47/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LifeBae (Bumblebee)" tvg-logo="" tvg-chno="512" channel-id="512" tvg-country="US" tvg-language="English" group-title="Kids",LifeBae (Bumblebee)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22681932c8304fc453418/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Master Builder (Bumblebee)" tvg-logo="" tvg-chno="539" channel-id="539" tvg-country="US" tvg-language="English" group-title="Kids",Master Builder (Bumblebee)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2256ed5eeee0f5a4094bb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick (Pluto TV)" tvg-logo="" tvg-chno="644" channel-id="644" tvg-country="US" tvg-language="English" group-title="Kids",Nick (Pluto TV)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="" tvg-name="NICK HD" tvg-logo="" tvg-chno="645" channel-id="645" tvg-country="US" tvg-language="Spanish" group-title="Kids",NICK HD
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="NickJr.pt" tvg-name="Nick Jr (Pluto TV)" tvg-logo="https://static.epg.best/pt/NickJr.pt.png" tvg-chno="646" channel-id="646" tvg-country="US" tvg-language="English" group-title="Kids",Nick Jr (Pluto TV)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="NickJr.pt" tvg-name="Nick Jr (Pluto TV)" tvg-logo="https://static.epg.best/pt/NickJr.pt.png" tvg-chno="647" channel-id="647" tvg-country="US" tvg-language="English" group-title="Kids",Nick Jr (Pluto TV)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="NickJr.pl" tvg-name="Nick Jr Club (Pluto TV)" tvg-logo="https://static.epg.best/pl/NickJr.pl.png" tvg-chno="649" channel-id="649" tvg-country="US" tvg-language="Spanish" group-title="Kids",Nick Jr Club (Pluto TV)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="" tvg-name="PBS Kids (EST)" tvg-logo="" tvg-chno="697" channel-id="697" tvg-country="US" tvg-language="English" group-title="Kids",PBS Kids (EST)
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pluto (Bumblebee)" tvg-logo="" tvg-chno="709" channel-id="709" tvg-country="US" tvg-language="English" group-title="Kids",Pluto (Bumblebee)
+https://5ab2d7093e38404091ca44d800f6c4c4.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5d42f01baea0c5699f368901/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="After School Cartoons" tvg-logo="" tvg-chno="721" channel-id="721" tvg-country="US" tvg-language="English" group-title="Kids",After School Cartoons
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56171fafada51f8004c4b40f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="PlutoDrama.us" tvg-name="Pluto TV Animakids" tvg-logo="https://static.epg.best/us/PlutoDrama.us.png" tvg-chno="730" channel-id="730" tvg-country="US" tvg-language="Spanish" group-title="Kids",Pluto TV Animakids
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+#EXTINF:-1 tvg-id="PlutoDrama.us" tvg-name="Pluto TV Animakids Plus" tvg-logo="https://static.epg.best/us/PlutoDrama.us.png" tvg-chno="731" channel-id="731" tvg-country="US" tvg-language="Spanish" group-title="Kids",Pluto TV Animakids Plus
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a0b44cc331900075e7769/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+#EXTINF:-1 tvg-id="PlutoThrillers.us" tvg-name="Pluto TV Garfield" tvg-logo="https://static.epg.best/us/PlutoThrillers.us.png" tvg-chno="952" channel-id="952" tvg-country="US" tvg-language="Spanish" group-title="Kids",Pluto TV Garfield
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6054ab20a365c70007e4fd44/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Junior" tvg-logo="" tvg-chno="1009" channel-id="1009" tvg-country="US" tvg-language="Spanish" group-title="Kids",Pluto TV Junior
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2ac4bc6c500094ab45b/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Junior" tvg-logo="" tvg-chno="1010" channel-id="1010" tvg-country="US" tvg-language="English" group-title="Kids",Pluto TV Junior
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12141b146d760007934ea7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Junior" tvg-logo="" tvg-chno="1011" channel-id="1011" tvg-country="US" tvg-language="English" group-title="Kids",Pluto TV Junior
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aa9bcd8160700076d45d1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Junior" tvg-logo="" tvg-chno="1012" channel-id="1012" tvg-country="US" tvg-language="English" group-title="Kids",Pluto TV Junior
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecb336537e8000764a17f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="PlutoDrama.us" tvg-name="Pluto TV Kids" tvg-logo="https://static.epg.best/us/PlutoDrama.us.png" tvg-chno="1015" channel-id="1015" tvg-country="US" tvg-language="Spanish" group-title="Kids",Pluto TV Kids
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="PlutoDrama.us" tvg-name="Pluto TV Kids" tvg-logo="https://static.epg.best/us/PlutoDrama.us.png" tvg-chno="1016" channel-id="1016" tvg-country="US" tvg-language="English" group-title="Kids",Pluto TV Kids
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="PlutoDrama.us" tvg-name="Pluto TV Kids" tvg-logo="https://static.epg.best/us/PlutoDrama.us.png" tvg-chno="1017" channel-id="1017" tvg-country="US" tvg-language="English" group-title="Kids",Pluto TV Kids
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d54be738977e2c310940/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="PlutoDrama.us" tvg-name="Kids" tvg-logo="https://static.epg.best/us/PlutoDrama.us.png" tvg-chno="1018" channel-id="1018" tvg-country="US" tvg-language="English" group-title="Kids",Kids
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9b648e738977e2c312131/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="PlutoDrama.us" tvg-name="Pluto TV Kids" tvg-logo="https://static.epg.best/us/PlutoDrama.us.png" tvg-chno="1019" channel-id="1019" tvg-country="US" tvg-language="English" group-title="Kids",Pluto TV Kids
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="PlutoDrama.us" tvg-name="Pluto TV Kids" tvg-logo="https://static.epg.best/us/PlutoDrama.us.png" tvg-chno="1020" channel-id="1020" tvg-country="US" tvg-language="English" group-title="Kids",Pluto TV Kids
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aab1d29b39600073e243f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+#EXTINF:-1 tvg-id="PlutoDrama.us" tvg-name="Pluto TV Kids Animation" tvg-logo="https://static.epg.best/us/PlutoDrama.us.png" tvg-chno="1021" channel-id="1021" tvg-country="US" tvg-language="English" group-title="Kids",Pluto TV Kids Animation
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="PlutoDrama.us" tvg-name="Pluto TV Kids Animation" tvg-logo="https://static.epg.best/us/PlutoDrama.us.png" tvg-chno="1022" channel-id="1022" tvg-country="US" tvg-language="English" group-title="Kids",Pluto TV Kids Animation
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eba14a4ffb8000764e950/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Kids Séries" tvg-logo="" tvg-chno="1023" channel-id="1023" tvg-country="US" tvg-language="English" group-title="Kids",Pluto TV Kids Séries
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eb99ff17815000784a3b0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="" tvg-name="Nick" tvg-logo="" tvg-chno="1121" channel-id="1121" tvg-country="US" tvg-language="English" group-title="Kids",Nick
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="" tvg-name="Nick Clásico" tvg-logo="" tvg-chno="1122" channel-id="1122" tvg-country="US" tvg-language="Spanish" group-title="Kids",Nick Clásico
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="" tvg-name="Nick Clássico" tvg-logo="" tvg-chno="1123" channel-id="1123" tvg-country="US" tvg-language="Spanish" group-title="Kids",Nick Clássico
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr Club" tvg-logo="" tvg-chno="1124" channel-id="1124" tvg-country="US" tvg-language="Spanish" group-title="Kids",Nick Jr Club
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr Latino" tvg-logo="" tvg-chno="1125" channel-id="1125" tvg-country="US" tvg-language="Spanish" group-title="Kids",Nick Jr Latino
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d0ec7b0f7015fbe0a3bf7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="" tvg-name="nickrewind" tvg-logo="" tvg-chno="1126" channel-id="1126" tvg-country="US" tvg-language="English" group-title="Kids",nickrewind
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ed106ce4bf2e80007700bb3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="PlutoSuspense.us" tvg-name="Pluto TV Teen" tvg-logo="https://static.epg.best/us/PlutoSuspense.us.png" tvg-chno="1223" channel-id="1223" tvg-country="US" tvg-language="Spanish" group-title="Kids",Pluto TV Teen
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b9914200091f047a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="PlutoSuspense.us" tvg-name="Pluto TV TEEN SERIES" tvg-logo="https://static.epg.best/us/PlutoSuspense.us.png" tvg-chno="1224" channel-id="1224" tvg-country="US" tvg-language="English" group-title="Kids",Pluto TV TEEN SERIES
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eb7e3d2ed18000746d09a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Teen Stars" tvg-logo="" tvg-chno="1225" channel-id="1225" tvg-country="US" tvg-language="English" group-title="Kids",Pluto TV Teen Stars
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60016a60a8e3520008e0d331/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+#EXTINF:-1 tvg-id="" tvg-name="TCT Kids" tvg-logo="" tvg-chno="1473" channel-id="1473" tvg-country="US" tvg-language="English" group-title="Kids",TCT Kids
+https://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Toon Goggles" tvg-logo="" tvg-chno="1533" channel-id="1533" tvg-country="US;AU" tvg-language="English" group-title="Kids",Toon Goggles
+https://toongoggles-toongoggles-3-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVS Hi Tops" tvg-logo="" tvg-chno="1551" channel-id="1551" tvg-country="US" tvg-language="English" group-title="Kids",TVS Hi Tops
+https://rpn1.bozztv.com/36bay2/gusa-hitops/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVS Pinball Network" tvg-logo="" tvg-chno="1560" channel-id="1560" tvg-country="US" tvg-language="English" group-title="Kids",TVS Pinball Network
+https://rpn1.bozztv.com/36bay2/gusa-TVSCartoonNetwork/tracks-v1a1/index-1623402005-now.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CSPAN-US" tvg-logo="" tvg-chno="136" channel-id="136" tvg-country="US" tvg-language="English" group-title="Legislative",CSPAN-US
+https://bozztv.com/teleyupp/teleup-cspan/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CSPAN-US" tvg-logo="" tvg-chno="137" channel-id="137" tvg-country="US" tvg-language="English" group-title="Legislative",CSPAN-US
+https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CSPAN 2-US" tvg-logo="" tvg-chno="138" channel-id="138" tvg-country="US" tvg-language="English" group-title="Legislative",CSPAN 2-US
+https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CSPAN 3-US" tvg-logo="" tvg-chno="139" channel-id="139" tvg-country="US" tvg-language="English" group-title="Legislative",CSPAN 3-US
+https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
+#EXTINF:-1 tvg-id="CGNTV.kr" tvg-name="CGTV" tvg-logo="https://static.epg.best/kr/CGNTV.kr.png" tvg-chno="185" channel-id="185" tvg-country="US" tvg-language="English" group-title="Legislative",CGTV
+https://reflect-live-champaign.cablecast.tv/live/CELL-296k-234p/CELL-296k-234p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DC Council Channel" tvg-logo="" tvg-chno="255" channel-id="255" tvg-country="US" tvg-language="English" group-title="Legislative",DC Council Channel
+https://video.oct.dc.gov/out/u/15_12.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="District of Columbia Network" tvg-logo="" tvg-chno="258" channel-id="258" tvg-country="US" tvg-language="English" group-title="Legislative",District of Columbia Network
+https://video.oct.dc.gov/out/u/DCN.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Escambia County TV" tvg-logo="" tvg-chno="287" channel-id="287" tvg-country="US" tvg-language="English" group-title="Legislative",Escambia County TV
+https://stream.swagit.com/live-edge/escambiacountyfl/live-1-a/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fairfax Public Access" tvg-logo="" tvg-chno="304" channel-id="304" tvg-country="US" tvg-language="English" group-title="Legislative",Fairfax Public Access
+https://cs.ebmcdn.net/eastbay-live-hs-1/fairfax-pull/_definst_/mp4:fairfax.stream/chunklist.m3u8
