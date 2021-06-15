@@ -462,54 +462,482 @@ http://stmv2.srvstm.com:1935/cartoonr/cartoonr/playlist.m3u8?PEDROJUNIORTUTORIAI
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://s30.postimg.org/dmcu8wn69/Baby_TV.png" group-title="Infantil",Baby TV
-
-#EXTINF:-1 tvg-id="TV Rá-Tim-Bum" tvg-logo="http://i.imgur.com/0HQ20e3.png" group-title="Infantil",TV Rá-Tim-Bum
-
-#EXTINF:-1 tvg-id="Boomerang" tvg-logo="http://i.imgur.com/syou7kI.png" group-title="Infantil",Boomerang
-http://listaiptv.brcs.ml:8080/SD_BOOMERANG/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-
-#EXTINF:-1 tvg-id="Tooncast" tvg-logo="http://i.imgur.com/ggVGWjw.png" group-title="Infantil",Tooncast
-http://listaiptv.brcs.ml:8080/SD_TOONCAST/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-
-#EXTINF:-1 tvg-id="Nick" tvg-logo="http://s20.postimg.org/e7rgp8w3t/nick.png" group-title="Infantil",Nickelodeon
-http://tv.ec.cx:1935/redecanais-stream-nick/myStream/chunklist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="Nick" tvg-logo="http://s20.postimg.org/e7rgp8w3t/nick.png" group-title="Infantil",Nickelodeon HD
-http://listaiptv.brcs.ml:8080/SD_NICKELODEON/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-
-#EXTINF:-1 tvg-id="Nick Jr." tvg-logo="http://s20.postimg.org/x0fqbxhu1/Nick_Jr.png" group-title="Infantil",Nick Jr.
-http://listaiptv.brcs.ml:8080/SD_NICK_JR/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-
-#EXTINF:-1 tvg-id="Gloob [Brazil]" tvg-logo="http://s20.postimg.org/sn3eoa4y1/Gloob.png" group-title="Infantil",Gloob
-http://listaiptv.brcs.ml:8080/SD_GLOOB/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-
-#EXTINF:-1 tvg-id="Gloob [Brazil]" tvg-logo="http://s20.postimg.org/sn3eoa4y1/Gloob.png" group-title="Infantil",Gloob HD
-http://listaiptv.brcs.ml:8080/HD_GLOOB/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="http://s20.postimg.org/x27jhejrh/Cartoon_Network.png" group-title="Infantil",Cartoon Network
-http://95.141.35.104:8081/look/cartoon/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="http://s20.postimg.org/x27jhejrh/Cartoon_Network.png" group-title="Infantil",Cartoon Network HD
-http://listaiptv.brcs.ml:8080/HD_CARTOON_NETWORK/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-
-#EXTINF:-1 tvg-id="Disney XD" tvg-logo="http://s20.postimg.org/y2714ldop/Disney_XD.png" group-title="Infantil",Disney XD
-http://tv.ec.cx:1935/redecanais-stream-disneyxd/myStream/chunklist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="Disney XD" tvg-logo="http://s20.postimg.org/y2714ldop/Disney_XD.png" group-title="Infantil",Disney XD HD
-http://listaiptv.brcs.ml:8080/SD_DISNEY_XD/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="http://s20.postimg.org/o9v67go09/Discovery_Kids.png" group-title="Infantil",Discovery Kids
-http://95.141.35.104:8081/look/discoverykids1/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="http://s20.postimg.org/o9v67go09/Discovery_Kids.png" group-title="Infantil",Discovery Kids HD
-http://listaiptv.brcs.ml:8080/HD_DISCOVERY_KIDS/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-
-#EXTINF:-1 tvg-id="Disney Junior" tvg-logo="http://s20.postimg.org/fb53ufj49/Disney_Jr.png" group-title="Infantil",Disney Junior
-http://listaiptv.brcs.ml:8080/SD_DISNEY_JR/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-
-#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="http://s20.postimg.org/p5rnmwxot/Disney_Channel.png" group-title="Infantil",Disney Channel
-http://listaiptv.brcs.ml:8080/SD_DISNEY/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-
-#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="http://s20.postimg.org/p5rnmwxot/Disney_Channel.png" group-title="Infantil",Disney Channel HD
-http://listaiptv.brcs.ml:8080/HD_DISNEY/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+#EXTINF:-1,PL: 13 Ulica
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25677.m3u8
+#EXTINF:-1,PL: 13 Ulica FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25678.m3u8
+#EXTINF:-1,PL: 4Fun Dance
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25676.m3u8
+#EXTINF:-1,PL: 4Fun Gold Hits
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25675.m3u8
+#EXTINF:-1,PL: 4Fun TV
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25674.m3u8
+#EXTINF:-1,PL: AMC FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25673.m3u8
+#EXTINF:-1,PL: AXN
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25669.m3u8
+#EXTINF:-1,PL: AXN FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25670.m3u8
+#EXTINF:-1,PL: ATM Rozrywka TV
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25672.m3u8
+#EXTINF:-1,PL: AXN Black
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25671.m3u8
+#EXTINF:-1,PL: AXN Black FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/57794.m3u8
+#EXTINF:-1,PL: AXN Spin FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25668.m3u8
+#EXTINF:-1,PL: AXN Spin
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25667.m3u8
+#EXTINF:-1,PL: AXN White
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25666.m3u8
+#EXTINF:-1,PL: Active Family
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25665.m3u8
+#EXTINF:-1,PL: Adventure FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25664.m3u8
+#EXTINF:-1,PL: Ale Kino+ FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25663.m3u8
+#EXTINF:-1,PL: Ale Kino+
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25662.m3u8
+#EXTINF:-1,PL: Animal Planet HD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25661.m3u8
+#EXTINF:-1,PL: Animal Planet FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/73401.m3u8
+#EXTINF:-1,PL: BBC Earth FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25660.m3u8
+#EXTINF:-1,PL: BBC FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25659.m3u8
+#EXTINF:-1,PL: BBC Brit FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/64313.m3u8
+#EXTINF:-1,PL: BBC Cbeebies
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/73453.m3u8
+#EXTINF:-1,PL: Boomerang FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25658.m3u8
+#EXTINF:-1,PL: Baby TV
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/73400.m3u8
+#EXTINF:-1,PL: CANAL+  FAMILY HD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25656.m3u8
+#EXTINF:-1,PL: CANAL+ FAMILY FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25657.m3u8
+#EXTINF:-1,PL: CANAL+
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25655.m3u8
+#EXTINF:-1,PL: CANAL+ FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25648.m3u8
+#EXTINF:-1,PL: CBS Europa FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25653.m3u8
+#EXTINF:-1,PL: CBS Reality
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25652.m3u8
+#EXTINF:-1,PL: Canal+ Discovery FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25650.m3u8
+#EXTINF:-1,PL: CANAL+ Discovery
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25649.m3u8
+#EXTINF:-1,PL: CANAL+ Film FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25647.m3u8
+#EXTINF:-1,PL: Canal+ 1 FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/50676.m3u8
+#EXTINF:-1,PL: CANAL+ Seriale FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25645.m3u8
+#EXTINF:-1,PL : CANAL+ Seriale
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25644.m3u8
+#EXTINF:-1,PL: CANAL+ Sport FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25641.m3u8
+#EXTINF:-1,PL: CANAL+ Sport HD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25640.m3u8
+#EXTINF:-1,PL: CANAL+ Sport
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25639.m3u8
+#EXTINF:-1,PL: CANAL+ Sport 2 FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25643.m3u8
+#EXTINF:-1,PL: CANAL+ Sport 2 HD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25642.m3u8
+#EXTINF:-1,PL: CANAL+ Sport 2
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/57801.m3u8
+#EXTINF:-1,PL: Cartoon Network FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25638.m3u8
+#EXTINF:-1,PL : Canal Family FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25636.m3u8
+#EXTINF:-1,PL: CineMax 1 FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25635.m3u8
+#EXTINF:-1,PL : Cinemax 2
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25634.m3u8
+#EXTINF:-1,PL: Comedy Central Family FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25632.m3u8
+#EXTINF:-1,PL : Comedy Central
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25633.m3u8
+#EXTINF:-1,PL: Comedy Central
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25631.m3u8
+#EXTINF:-1,PL: DTX FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25630.m3u8
+#EXTINF:-1,PL: Da Vinci Learning
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25628.m3u8
+#EXTINF:-1,PL: Disco Polo Music
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25626.m3u8
+#EXTINF:-1,PL: Discovery Channel FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25624.m3u8
+#EXTINF:-1,PL: Discovery Historia
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25623.m3u8
+#EXTINF:-1,PL: Discovery Life FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25622.m3u8
+#EXTINF:-1,PL: Discovery Life HD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25621.m3u8
+#EXTINF:-1,PL: Discovery Science FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/57869.m3u8
+#EXTINF:-1,PL: Discovery Science HD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25620.m3u8
+#EXTINF:-1,PL: Disney Channel FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25619.m3u8
+#EXTINF:-1,PL : Disney Junior
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25618.m3u8
+#EXTINF:-1,PL : Disney XD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25617.m3u8
+#EXTINF:-1,PL: E! FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25615.m3u8
+#EXTINF:-1,PL: Eska TV
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25613.m3u8
+#EXTINF:-1,PL: Eska TV Extra
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25614.m3u8
+#EXTINF:-1,PL: Fightbox FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25607.m3u8
+#EXTINF:-1,PL: Filmbox Action
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25604.m3u8
+#EXTINF:-1,PL : FilmBox Arthouse
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25605.m3u8
+#EXTINF:-1,PL: Filmbox Extra FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25603.m3u8
+#EXTINF:-1,PL: Filmbox Family
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25601.m3u8
+#EXTINF:-1,PL: Filmbox FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25600.m3u8
+#EXTINF:-1,PL: Filmbox Premium FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25599.m3u8
+#EXTINF:-1,PL: Filmbox Premium
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/57871.m3u8
+#EXTINF:-1,PL: Fokus TV
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25598.m3u8
+#EXTINF:-1,PL: FOX Comedy FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25612.m3u8
+#EXTINF:-1,PL: Fox Comedy
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25597.m3u8
+#EXTINF:-1,PL: FOX FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25610.m3u8
+#EXTINF:-1,PL : FOX
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25611.m3u8
+#EXTINF:-1,PL: FOX
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/57870.m3u8
+#EXTINF:-1,PL: H2 FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25596.m3u8
+#EXTINF:-1,PL : HBO 1
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25595.m3u8
+#EXTINF:-1,PL: HBO 1 FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25594.m3u8
+#EXTINF:-1,PL: HBO 1
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/57872.m3u8
+#EXTINF:-1,PL : HBO 2
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25592.m3u8
+#EXTINF:-1,PL : HBO 3
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25591.m3u8
+#EXTINF:-1,PL: HGTV FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25590.m3u8
+#EXTINF:-1,PL: HIP HOP TV
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25588.m3u8
+#EXTINF:-1,PL: History FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25587.m3u8
+#EXTINF:-1,PL: History
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25586.m3u8
+#EXTINF:-1,PL: Investigation Discovery FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25585.m3u8
+#EXTINF:-1,PL: Kino Polska Muzyka
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25583.m3u8
+#EXTINF:-1,PL: Kino Polska
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25582.m3u8
+#EXTINF:-1,PL: Kino TV
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25581.m3u8
+#EXTINF:-1,PL: Kuchnia+ FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25580.m3u8
+#EXTINF:-1,PL: Kuchnia+ HD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25579.m3u8
+#EXTINF:-1,PL: Lifetime FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25578.m3u8
+#EXTINF:-1,PL: METRO
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25576.m3u8
+#EXTINF:-1,PL: Trace Urban
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/73440.m3u8
+#EXTINF:-1,PL: MTV CLUB
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/73406.m3u8
+#EXTINF:-1,PL: MTV Live FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25574.m3u8
+#EXTINF:-1,PL: MiniMini+ FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25571.m3u8
+#EXTINF:-1,PL: Motorwizja
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25569.m3u8
+#EXTINF:-1,PL: Nat Geo FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25568.m3u8
+#EXTINF:-1,PL: Nat Geo
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25567.m3u8
+#EXTINF:-1,PL: Nat Geo People FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25566.m3u8
+#EXTINF:-1,PL: Nat Geo Wild FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25565.m3u8
+#EXTINF:-1,PL: Nat Geo Wild HD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25564.m3u8
+#EXTINF:-1,PL: Nick JR.
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25563.m3u8
+#EXTINF:-1,PL: Nickelodeon
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25562.m3u8
+#EXTINF:-1,PL: TeleToon+ FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/73439.m3u8
+#EXTINF:-1,PL: POLSAT JimJam
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25559.m3u8
+#EXTINF:-1,PL: POLSAT Sport Fight FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25558.m3u8
+#EXTINF:-1,PL: POLSAT Viasat Explore FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25557.m3u8
+#EXTINF:-1,PL: POLSAT Viasat Nature FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25556.m3u8
+#EXTINF:-1,PL: Paramount Channel FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25555.m3u8
+#EXTINF:-1,PL: Planete+ HD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25554.m3u8
+#EXTINF:-1,PL: Planete+ FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25553.m3u8
+#EXTINF:-1,PL: Polo TV
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25552.m3u8
+#EXTINF:-1,PL : Polsat
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25546.m3u8
+#EXTINF:-1,PL: Polsat
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25538.m3u8
+#EXTINF:-1,PL: Polsat 2 FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25551.m3u8
+#EXTINF:-1,PL: Polsat 2 HD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25550.m3u8
+#EXTINF:-1,PL: Polsat 2
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25549.m3u8
+#EXTINF:-1,PL: Polsat Cafe FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25548.m3u8
+#EXTINF:-1,PL: Polsat Doku FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25547.m3u8
+#EXTINF:-1,PL: Polsat Film FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25545.m3u8
+#EXTINF:-1,PL: Polsat Film HD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25544.m3u8
+#EXTINF:-1,PL: Polsat Music FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25542.m3u8
+#EXTINF:-1,PL: Polsat News FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25540.m3u8
+#EXTINF:-1,PL: Polsat News
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25539.m3u8
+#EXTINF:-1,PL: Polsat News 2
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25541.m3u8
+#EXTINF:-1,PL: Polsat Play FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/73436.m3u8
+#EXTINF:-1,PL: Polsat Play HD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25536.m3u8
+#EXTINF:-1,PL: Polsat Play
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25535.m3u8
+#EXTINF:-1,PL: Polsat Viasat History FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25533.m3u8
+#EXTINF:-1,PL: Polsat Games FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/73409.m3u8
+#EXTINF:-1,PL: Polsat Rodzina FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/73437.m3u8
+#EXTINF:-1,PL: Super Polsat HD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/73452.m3u8
+#EXTINF:-1,PL: Power TV
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25532.m3u8
+#EXTINF:-1,PL: Puls 2
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25531.m3u8
+#EXTINF:-1,PL: Romance FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25530.m3u8
+#EXTINF:-1,PL: SciFi Universal
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25529.m3u8
+#EXTINF:-1,PL: Sport Klub HD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25528.m3u8
+#EXTINF:-1,PL: Sport Klub FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/73438.m3u8
+#EXTINF:-1,PL: Stars TV
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25527.m3u8
+#EXTINF:-1,PL: Stopklatka TV
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25526.m3u8
+#EXTINF:-1,PL: Sundance FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25525.m3u8
+#EXTINF:-1,PL: TLC FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25522.m3u8
+#EXTINF:-1,PL: TNT FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25520.m3u8
+#EXTINF:-1,PL : TTV FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25516.m3u8
+#EXTINF:-1,PL: TV 4 FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25515.m3u8
+#EXTINF:-1,PL: TV Puls FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25513.m3u8
+#EXTINF:-1,PL: TV Republika
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25511.m3u8
+#EXTINF:-1,PL: TV Trwam
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25510.m3u8
+#EXTINF:-1,PL: TV6 FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25508.m3u8
+#EXTINF:-1,PL: TV6 HD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25507.m3u8
+#EXTINF:-1,PL: TVN 24 FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25506.m3u8
+#EXTINF:-1,PL: TVN 24
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25504.m3u8
+#EXTINF:-1,PL: TVN 7 HD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25502.m3u8
+#EXTINF:-1,PL: TVN 7 FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/73441.m3u8
+#EXTINF:-1,PL : TVN
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25501.m3u8
+#EXTINF:-1,PL: TVN FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25499.m3u8
+#EXTINF:-1,PL: TVN
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25498.m3u8
+#EXTINF:-1,PL: TVN Fabula FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25500.m3u8
+#EXTINF:-1,PL : TVN Style
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25496.m3u8
+#EXTINF:-1,PL: TVN Style FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/81265.m3u8
+#EXTINF:-1,PL : TVN Turbo
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25495.m3u8
+#EXTINF:-1,PL: TVN Turbo FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/73442.m3u8
+#EXTINF:-1,PL: TVN24 BiS FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25493.m3u8
+#EXTINF:-1,PL: TVP 1 FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25492.m3u8
+#EXTINF:-1,PL :  TVP 1
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25491.m3u8
+#EXTINF:-1,PL: TVP 2 FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25490.m3u8
+#EXTINF:-1,PL : TVP 2
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25489.m3u8
+#EXTINF:-1,PL: TVP 3
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25488.m3u8
+#EXTINF:-1,PL: TVP Polonia
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/77692.m3u8
+#EXTINF:-1,PL: TVP ABC
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25486.m3u8
+#EXTINF:-1,PL: TVP Historia
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25483.m3u8
+#EXTINF:-1,PL: TVP Info FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25482.m3u8
+#EXTINF:-1,PL: TVP Info
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25481.m3u8
+#EXTINF:-1,PL: TVP Kultura
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25480.m3u8
+#EXTINF:-1,PL: TVP Rozrywka
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25478.m3u8
+#EXTINF:-1,PL: TVP Seriale
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25477.m3u8
+#EXTINF:-1,PL: TVP Sport HD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25475.m3u8
+#EXTINF:-1,PL: TVP Sport FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/73443.m3u8
+#EXTINF:-1,PL: TVS
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/25474.m3u8
+#EXTINF:-1,PL: VH1
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/26466.m3u8
+#EXTINF:-1,PL: MTV Polska HD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/26465.m3u8
+#EXTINF:-1,PL: VOD 202
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/73444.m3u8
+#EXTINF:-1,PL: VOD 204
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/73445.m3u8
+#EXTINF:-1,PL: VOD 205
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/26462.m3u8
+#EXTINF:-1,PL: VOD 206
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/26461.m3u8
+#EXTINF:-1,PL: VOD 207
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/73446.m3u8
+#EXTINF:-1,PL: VOD 208
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/26459.m3u8
+#EXTINF:-1,PL: VOD 212
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/73447.m3u8
+#EXTINF:-1,PL: VOX Music TV
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/26457.m3u8
+#EXTINF:-1,PL: WP
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/26456.m3u8
+#EXTINF:-1,PL: Zoom TV
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/26453.m3u8
+#EXTINF:-1,PL: nSport+
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/49996.m3u8
+#EXTINF:-1,PL: nSport+ FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/26452.m3u8
+#EXTINF:-1,PL: Eleven Sports 1 FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/26447.m3u8
+#EXTINF:-1,PL : Eleven Sports 1
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/26451.m3u8
+#EXTINF:-1,PL: Eleven Sports 2 FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/26450.m3u8
+#EXTINF:-1,PL: Eleven Sports 3 FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/26449.m3u8
+#EXTINF:-1,PL: Eleven Sports 4 FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/26448.m3u8
+#EXTINF:-1,PL: EuroSport 1 FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/26445.m3u8
+#EXTINF:-1,PL: EuroSport 1
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/26446.m3u8
+#EXTINF:-1,PL: EuroSport 2 FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/26444.m3u8
+#EXTINF:-1,PL: Extreme Sports FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/26441.m3u8
+#EXTINF:-1,PL: Extreme Sports
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/26440.m3u8
+#EXTINF:-1,PL: Golf Channel FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/26439.m3u8
+#EXTINF:-1,PL: Polsat Sport Extra FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/26438.m3u8
+#EXTINF:-1,PL: Polsat Sport Extra HD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/26437.m3u8
+#EXTINF:-1,PL: Polsat Sport Extra
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/26436.m3u8
+#EXTINF:-1,PL: Polsat Sport FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/57714.m3u8
+#EXTINF:-1,PL: Polsat Sport HD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/26435.m3u8
+#EXTINF:-1,PL: Polsat Sport
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/26430.m3u8
+#EXTINF:-1,PL: Polsat Sport Fight
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/26433.m3u8
+#EXTINF:-1,PL: Polsat Sport News HD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/26431.m3u8
+#EXTINF:-1,PL: Polsat Sport News
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/57744.m3u8
+#EXTINF:-1,PL: Polsat Sport Premium 1 FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/50585.m3u8
+#EXTINF:-1,PL: Polsat Sport Premium 2 FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/50586.m3u8
+#EXTINF:-1,PL: Polsat Sport Premium PPV 3
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/50587.m3u8
+#EXTINF:-1,PL: Polsat Sport Premium PPV 4
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/50588.m3u8
+#EXTINF:-1,PL: Polsat Sport Premium PPV 5
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/50589.m3u8
+#EXTINF:-1,PL: Polsat Sport Premium PPV 6
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/50590.m3u8
+#EXTINF:-1,PL: KSW PPV FHD [Live During Events Only]
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/71405.m3u8
+#EXTINF:-1,PL: Domo+ FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/73404.m3u8
+#EXTINF:-1,PL: Epic Drama FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/73405.m3u8
+#EXTINF:-1,PL: NOWA TV
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/73407.m3u8
+#EXTINF:-1,PL: Nuta. TV
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/73408.m3u8
+#EXTINF:-1,PL: TELE 5
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/73450.m3u8
+#EXTINF:-1,PL: Telewizja Wpolsce
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/73448.m3u8
+#EXTINF:-1,VIP PL: Canal+ UHD 4K
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/91899.m3u8
+#EXTINF:-1,VIP PL: BBC Lifestyle HD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/93560.m3u8
+#EXTINF:-1,VIP PL: Food Network FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/93559.m3u8
+#EXTINF:-1,VIP PL: TVP FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/93558.m3u8
+#EXTINF:-1,VIP PL: CANAL+ Sport 3 FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/107208.m3u8
+#EXTINF:-1,VIP PL: CANAL+ Sport 4 FHD
+http://portal.m3uplus.stream:8080/live/oliwiaflisof/wiyp8Xq2mS/107209.m3u8                       
+  
